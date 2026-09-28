@@ -18,29 +18,29 @@ https://github.com/hanan-qureshi/geeksforgeeks-inspired
 
 ### Home Page
 
-![Home Page](./public/assets/screenshot/home-page.png)
+![Home Page](./public/assets/screenshots/home-page.png)
 
 ### Explore
 
-![Explore](./public/assets/screenshot/explore.png)
+![Explore](./public/assets/screenshots/explore.png)
 
 ### Help
 
-![Help](./public/assets/screenshot/help.png)
+![Help](./public/assets/screenshots/help.png)
 
 ### Courses
 
-![Courses](./public/assets/screenshot/courses.png)
+![Courses](./public/assets/screenshots/courses.png)
 
 ### Footer
 
-![Footer](./public/assets/screenshot/footer.png)
+![Footer](./public/assets/screenshots/footer.png)
 
 ### Contact Us
 
 The Contact Us page is accessible through the Contact Us link provided in the website Footer.
 
-![Contact Us](./public/assets/screenshot/contact-us.png)
+![Contact Us](./public/assets/screenshots/contact-us.png)
 
 ---
 
@@ -112,7 +112,7 @@ geeksforgeeks-inspired/
 │
 ├── public/
 │   └── assets/
-│       └── screenshot/
+│       └── screenshots/
 │           ├── home-page.png
 │           ├── explore.png
 │           ├── help.png
