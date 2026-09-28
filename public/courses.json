@@ -1,0 +1,44 @@
+[
+    {
+        "title": "DSA & System Design Course - SDE Interview Prep",
+        "imageSrc": "../assets/426154831.png",
+        "rating": "4.9",
+        "level": "Beginner to Advanced",
+        "trend": "446k+ interested Geeks"
+    },
+    {
+        "title": "AI Engineering Course - Generative AI & Agentic AI",
+        "imageSrc": "../assets/asdxaa.webp",
+        "rating": "4.7",
+        "level": "Beginner to Advanced",
+        "trend": "90k+ interested Geeks"
+    },
+    {
+        "title": "DevOps & Cloud Course - AWS, Docker, Kubernetes with AI",
+        "imageSrc": "../assets/426154825.webp",
+        "rating": "4.7",
+        "level": "Beginner to Advanced",
+        "trend": "182k+ interested Geeks"
+    },
+    {
+        "title": "JavArrowForwardIcona Backend Course - Spring Boot, Microservices with AI",
+        "imageSrc": "../assets/426154829.webp",
+        "rating": "4.6",
+        "level": "Intermediate and Advanced",
+        "trend": "429k+ interested Geeks"
+    },
+    {
+        "title": "MERN Full Stack Course - React, Node & MongoDB with AI",
+        "imageSrc": "../assets/426154863.webp",
+        "rating": "4.7",
+        "level": "Beginner to Advanced",
+        "trend": "451k+ interested Geeks"
+    },
+    {
+        "title": "Data Analytics Course - Excel, SQL, Python, Power BI with AI",
+        "imageSrc": "../assets/426154824.png",
+        "rating": "4.3",
+        "level": "Beginner to Advanced",
+        "trend": "147k+ interested Geeks"
+    }
+]

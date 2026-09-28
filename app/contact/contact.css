@@ -1,0 +1,92 @@
+#pageOne {
+    background-color: white;
+    height: 116rem;
+
+    .style-Title {
+        color: black;
+        font-size: 32px;
+        margin-left: 4rem;
+        font-weight: bold;
+    }
+
+    .style-Title2 {
+        color: black;
+        font-size: 43px;
+        font-weight: bold;
+        margin-top: 4rem;
+    }
+
+    .style-Title3 {
+        color: #273239;
+        font-size: 23px;
+        margin-top: 2rem;
+        font-weight: bold;
+    }
+
+    .style-Span1 {
+        color: red;
+    }
+
+    .style-Div1{
+        width: 50rem;
+        margin-left: 10rem ;
+    }
+
+    #demo-simple-select {
+        min-height: 1rem;
+        height: 1rem;
+        
+    }
+
+    .style-Reason {
+        color: #273239;
+        margin-bottom: 10rem;
+        
+    }
+
+    .style-Email {
+        color: #273239;
+    }
+    #outlined-basic{
+        height: 7rem;
+       
+    }
+    .style-Submit {
+        width: 36rem;
+        font-weight: bold;
+        background-color: #273239;
+        color: white;
+        text-transform: capitalize;
+    }
+    .style-Para{
+        font-size: 17px;
+        color: #273239;
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+    }
+    .style-Para2 {
+        color: #273239;
+        font-weight: bold;
+        font-size: 22px;
+    }
+     .style-Para3 {
+        margin-top: -1rem;
+        color: gray;
+        font-size: 17px;
+        line-height: 1.7rem;
+    }
+     .style-Para4 {
+        color: #273239;
+        font-weight: bold;
+        font-size: 22px;
+        margin-top: -0.9rem;
+    }
+    .style-Para5 {
+        margin-top: -1rem;
+        color: gray;
+        font-size: 17px;
+        line-height: 1.7rem;
+        margin-bottom: 7rem;
+
+}
+}

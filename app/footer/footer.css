@@ -1,0 +1,217 @@
+#footer {
+    .style-FooterG {
+        border: 1px solid lightgray;
+        padding: 3rem 2rem 1rem 2rem;
+        margin-top: 5rem;
+        text-align: left;
+
+    }
+
+    .style-FooterImg1 {
+        margin-left: 0%;
+    }
+
+
+    .style-Bold1 {
+        font-size: 14px;
+        color: gray;
+        line-height: 42px;
+    }
+
+    .style-Location1 {
+        color: #357960;
+        vertical-align: middle;
+    }
+
+    .style-Span1 {
+        font-size: 15px;
+        color: gray;
+    }
+
+    .style-Location2 {
+        color: #357960;
+        vertical-align: middle;
+    }
+
+    .style-Bold2 {
+        font-size: 14px;
+        color: gray;
+        line-height: 42px;
+        justify-content: left;
+    }
+
+    .style-Span2 {
+        font-size: 15px;
+        color: gray;
+    }
+
+    .style-Bold3 {
+        font-size: 15px;
+        color: #2f8d46;
+        text-align: left;
+        display: flex;
+    }
+
+    .style-Ul1 {
+        font-size: 13px;
+        color: gray;
+        margin-top: -1rem;
+        line-height: 20px;
+        margin-right: 1.5rem;
+    }
+
+    .style-Bold4 {
+        font-size: 15px;
+        color: #2f8d46;
+        text-align: left;
+        display: flex;
+    }
+
+    .style-Ul2 {
+        font-size: 13px;
+        color: gray;
+        margin-top: -1rem;
+        line-height: 20px;
+    }
+
+    .style-Bold5 {
+        font-size: 15px;
+        color: #2f8d46;
+        text-align: left;
+        display: flex;
+    }
+
+    .style-Ul3 {
+        font-size: 13px;
+        color: gray;
+        margin-top: -1rem;
+        line-height: 20px;
+        margin-right: 1.5rem;
+    }
+
+    .style-Bold6 {
+        font-size: 15px;
+        color: #2f8d46;
+        text-align: left;
+        display: flex;
+    }
+
+    .style-Ul4 {
+        font-size: 13px;
+        color: gray;
+        margin-top: -1rem;
+        line-height: 20px;
+        margin-right: 1.5rem;
+    }
+
+    .style-Bold7 {
+        font-size: 15px;
+        color: #2f8d46;
+        text-align: left;
+        display: flex;
+    }
+
+    .style-Ul5 {
+        font-size: 13px;
+        color: gray;
+        margin-top: -1rem;
+        line-height: 20px;
+    }
+
+    .style-Socials {
+        display: flex;
+        margin-top: -3.5rem;
+    }
+
+    .style-Linkedin {
+        background: grey;
+        border-color: grey;
+        padding: 6px;
+        width: 1.7rem;
+        height: 1.7rem;
+        border-radius: 50%;
+        color: white;
+        margin-right: 0.3rem;
+
+        &:hover {
+            background: #0072f5;
+        }
+    }
+
+    .style-Insta {
+        background: grey;
+        border-color: grey;
+        padding: 6px;
+        width: 1.7rem;
+        height: 1.7rem;
+        border-radius: 50%;
+        color: white;
+        margin-right: 0.3rem;
+
+        &:hover {
+            background: #c13584;
+        }
+    }
+
+    .style-X {
+        background: grey;
+        border-color: grey;
+        padding: 6px;
+        width: 1.7rem;
+        height: 1.7rem;
+        border-radius: 50%;
+        color: white;
+        margin-right: 0.3rem;
+
+        &:hover {
+            background: black;
+        }
+    }
+
+    .style-Fb {
+        background: grey;
+        padding: 1px;
+        width: 2.4rem;
+        height: 2.4rem;
+        border-radius: 50%;
+        color: white;
+        margin-right: 0.3rem;
+
+        &:hover {
+            background: #3B5998;
+        }
+    }
+
+    .style-Youtube {
+        background: grey;
+        border-color: grey;
+        padding: 1px;
+        width: 2.4rem;
+        height: 2.4rem;
+        border-radius: 50%;
+        color: white;
+        margin-right: 2.1rem;
+
+        &:hover {
+            background: #FF0033;
+        }
+    }
+
+    .style-Gp {
+        height: 30px;
+        margin-top: 0.4rem;
+        margin-right: 0.8rem;
+    }
+
+    .style-Astore {
+        height: 30px;
+        margin-top: 0.4rem;
+    }
+
+    .style-Lline {
+        text-align: left;
+        margin-left: 2.1rem;
+        color: gray;
+        font-size: 15px;
+    }
+}

@@ -1,0 +1,39 @@
+#header {
+
+    
+    background-color: white;
+
+    header {
+        background-color: white;
+    }
+
+    .search-icon {
+        background-color: lightgrey;
+        height: 2rem;
+        width: 2rem;
+        border-radius: 50%;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .sub-icon {
+        text-align: center;
+        background-color: white;
+        border-top: 1px solid lightgray;
+        height: 47px;
+
+    }
+
+    .sub-icon button {
+        color: black;
+
+        &:hover {
+            color: green;
+            background: none;
+        }
+
+        text-transform: capitalize;
+
+    }
+
+}
