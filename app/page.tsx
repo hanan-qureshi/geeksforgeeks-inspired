@@ -133,7 +133,7 @@ export default function Home() {
           </Grid>
         </Grid>
         <Grid container id='coursesCard' spacing={2} sx={{ flexGrow: 1, justifyContent: 'center' }}>
-          {allCourses?.map((item, index) => (
+          {allCourses?.map((item: any, index: number) => (
             <Grid size={4} style={{ width: 'auto', padding: "0 2rem" }} key={index}>
               <Card sx={{ position: 'relative', width: 293, height: 330, borderRadius: '1rem' }}>
 
